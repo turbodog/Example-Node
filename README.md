@@ -1,9 +1,9 @@
-# Getting Started Building and Deploying with Distelli - NodeJS Example
+# Getting Started Building and Deploying with Puppet - NodeJS Example
 
-This tutorial will get you setup, building, testing, and deploying an application with Distelli in minutes. 
+This tutorial will get you setup, building, testing, and deploying an application with Puppet in minutes. 
 
 The tutorial assumes you have already:
-* [Created a free Distelli account](https://www.distelli.com/signup)
+* [Created a free Puppet account](https://www.distelli.com/signup)
 * Have a login to, at least, one of the two public repositories.
  - <a href="https://github.com/" target="_blank">https://github.com/</a>
  - <a href="https://bitbucket.org/" target="_blank">https://bitbucket.org/</a>
@@ -16,7 +16,7 @@ To enable auto deployment of an application, you must have a destination server 
 
 If you don't have a server you can use a virtual server. For a simple guide to setting up a virtual server using Virtualbox and Vagrant see [Building Virtual Servers](http://docs.distelli.com/docs/building-virtual-servers).
 
-You must install the Distelli agent on the server to facilitate deployments. Instructions on installing the Distelli agent can be found here <a href="http://docs.distelli.com/docs/distelli-agent" target="_blank">Distelli agent reference guide.</a>
+You must install the Puppet agent on the server to facilitate deployments. Instructions on installing the Puppet agent can be found here <a href="http://docs.distelli.com/docs/distelli-agent" target="_blank">Puppet agent reference guide.</a>
 
 Install the agent and return to this document.
 
@@ -25,7 +25,7 @@ Install the agent and return to this document.
 #### <a name="section-fork-github-repository"></a>Fork Github Repository
 
 1. Ensure you are logged into your Github account. <a href="https://github.com/" target="_blank">https://github.com/</a>
-2. Go to this pubilc Distelli repository: <a href="https://github.com/distelli/nodejsbuilddeploy" target="_blank">https://github.com/distelli/nodejsbuilddeploy</a>.
+2. Go to this pubilc Puppet repository: <a href="https://github.com/distelli/nodejsbuilddeploy" target="_blank">https://github.com/distelli/nodejsbuilddeploy</a>.
 3. Click the **Fork** button (top right).
 
 You have forked the repository to your Github account. Good job!
